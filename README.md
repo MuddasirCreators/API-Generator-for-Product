@@ -82,7 +82,7 @@ This endpoint returns only the product with ID `2`.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/MuddasirCreators/API-Generator-for-Product
 ```
 
 ### 2. Enter the Project
